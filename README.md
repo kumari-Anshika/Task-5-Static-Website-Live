@@ -75,7 +75,7 @@ Task-5-Static-Website-Live/
 **Live Demo:**
 
 ```
-https://kumari-Anshika.github.io/Task-5-Static-Website-Live/
+https://kumari-anshika.github.io/Task-5-Static-Website-Live/
 ```
 
 ---
