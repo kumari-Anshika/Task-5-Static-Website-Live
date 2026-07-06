@@ -93,15 +93,6 @@ Through this project, I learned:
 
 ---
 
-## 📸 Screenshots
-
-- Home Page
-- Responsive Mobile View
-- GitHub Repository
-- GitHub Pages Live Website
-
----
-
 ## 🔮 Future Enhancements
 
 - Real audio playback
